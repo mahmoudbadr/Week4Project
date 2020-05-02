@@ -11,7 +11,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## R Markdown
 
-Download data
 Below is the code used to download the data for this analysis
 
 library(data.table)
